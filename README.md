@@ -1,5 +1,5 @@
 <h1 align="center">Gamerz Realm</h1>
-<p align="center">
+<p align="center"> A thriving community for gamers🔥
 </p>
   
 ## Getting started:
